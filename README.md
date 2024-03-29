@@ -1,6 +1,6 @@
 # [Material Tailwind Kit React Development]
 
-This is my personal development based from [creative-tim free Material Tailwind UI Kit](https://demos.creative-tim.com/material-tailwind-kit-react/#/home) based on Tailwind CSS and React. 
+This is my personal development from [creative-tim free Material Tailwind UI Kit](https://demos.creative-tim.com/material-tailwind-kit-react/#/home) based on Tailwind CSS and React. 
 
 **HELPFUL LINKS**
 
