@@ -8,11 +8,19 @@ This is my personal development from [creative-tim free Material Tailwind UI Kit
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Material Tailwind Kit React. Here are some advices for our users that want to report an issue:
+Our issue tracker is at <https://github.com/awaudindev/simple-react-web-project/issues>. Please
+report any bugs that you find. Or, even better, fork the repository on
+GitHub and create a pull request.
 
-1. Make sure that you are using the latest version of the Material Tailwind Kit React.
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
+## Brief History
+
+This repo was made with planning to develop more features in the future such as
+- User Profile and Dashboard
+- Integrate with wordpress rest API or WPgraphql
+
+## Contributing
+
+If you are interested in reporting/fixing issues and contributing directly to the code base, please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information on what we're looking for and how to get started.
 
 ## Licensing
 
